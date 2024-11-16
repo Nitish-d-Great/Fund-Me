@@ -7,9 +7,6 @@ Revolutionize the way projects and ideas are funded with our blockchain crowdfun
 
 Our crowdfunding DApp enables project creators to raise capital directly from a global pool of investors without the need for intermediaries. By utilizing smart contracts, the DApp automates the fundraising process, ensuring that funds are released to project creators only when predefined milestones are met, thereby increasing accountability and reducing the risk of fraud
 
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/crowd-funding-marketplace.jpg)
 
 ## Instruction
 
@@ -17,13 +14,6 @@ Kindly follow the following Instructions to run the project in your system and i
 
 
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/crowd-funding-marketplace-project-source-code)
-
-#### Setup Video
-- [Final Code Setup video](https://youtu.be/DKWqBqZDh74?si=7CUfjABG3zxRC4dt)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
 
 
 #### Install Vs Code Editor
@@ -45,8 +35,6 @@ Kindly follow the following Instructions to run the project in your system and i
   GET: Project Starter File Download
 ```
 
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
 
@@ -106,11 +94,5 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 - [Support Creator](https://bit.ly/Support-Creator)
 - [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
 
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
 
 
