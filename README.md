@@ -13,9 +13,6 @@ Our crowdfunding DApp enables project creators to raise capital directly from a 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/crowd-funding-marketplace-project-source-code)
-
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
